@@ -7,7 +7,6 @@ y mas
 y mas
 =======
 Hola este es un archivo prueba...
-HOLA HOLA MUNDILLO
 Este archivo esta siendo modificado :)
 Este archivo a sido modificado
 Y pronto estara en uso...
