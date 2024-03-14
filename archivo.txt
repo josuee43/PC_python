@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 Esto es una modificacion del archivo...
 agregando codigo
 y mas
 y mas
 y mas
+y mas
+=======
+Hola este es un archivo prueba...
+HOLA HOLA MUNDILLO
+Este archivo esta siendo modificado :)
+Este archivo a sido modificado
+Y pronto estara en uso...
+En proceso 
+>>>>>>> b32f92c19296f087e8f41859d719fc4fe796160a
